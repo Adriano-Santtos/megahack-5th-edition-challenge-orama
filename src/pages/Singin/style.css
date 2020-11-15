@@ -1,0 +1,144 @@
+.singin {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.singin-card {
+    background-color: #ffffff;
+    width: 900px;
+    height: 100%;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.singin-container {
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    border:none;
+    background-color:#fafafa;
+    box-shadow: 3px 2px 2px #d3d3d3;
+    box-shadow: inset 0 0 2px #d3d3d3, 0 0 2px #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.singin-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.singin-logo span {
+    text-align: center;
+    width: 300px;
+    font-size:27px;
+    font-weight: 400px;
+    font-family: Roboto, sans-serif;
+    color: #4c4c4c;
+}
+.singin-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.enter {
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.singin-enter {
+    border-radius: 50%;
+    padding:5px;
+    background-color: #77dd77;
+}
+
+.singin-logo {
+    background-color: #369E1E;
+}
+.singin-logo-1 {
+    background-color: #ffffff;
+}
+.singin-logo .logo img {
+    width: 300px;
+}
+
+.choose-content {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.choose-content .title {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+.choose-content .number {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding:5px;
+    background-color: #77dd77;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4c4c4c;
+}
+.choose-content .title span {
+    margin-top: 10px;
+    font-size: 12px;
+    padding-right: 60px;
+    display: flex;
+    justify-content: center;
+    align-self: end;
+    align-content:center;
+
+}
+.choose-content span {
+    font-size: 13px;
+}
+
+.choose-input {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-self: start;
+    margin-bottom: 10px;
+}
+
+.singin-success {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.singin-register {
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
