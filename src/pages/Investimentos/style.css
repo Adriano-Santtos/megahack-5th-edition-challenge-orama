@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box;
+}
+.col{
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.fluid{
+  height: 100vh;
+  overflow: hidden;
+}
+.img-fluid{
+  width: 90%;
+  height: 18rem;
+}
+.side{
+  width: auto;
+}
+
+.btn{
+  height: 4.3rem;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  color: white;
+  box-shadow: 0px 0px 7px rgb(78, 78, 78);
+}
+
+/** btns */
+.renda-v{
+  background-color: #75D752;
+}
+.rtd{
+  background-color: #529FD7;
+}
+.rf{
+  background-color: #3EBC4B;
+}
+
+.acao{
+  background-color: #3E87BC;
+}

@@ -1,0 +1,34 @@
+
+
+/** sidebar */
+.sidebar-dashboard {
+  background-color: #0E2445;
+  width: 250px;
+  height: 100vh;
+  padding:0px
+}
+
+.sidebar-dashboard ul {
+  margin-top: 100px;
+  width: 100%;
+  color: #ffffff;
+  list-style: none;
+  padding: 0px;
+  
+}
+
+.sidebar-dashboard ul li {
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  
+}
+.sidebar-dashboard ul li .link-dashboard {
+  position: relative;
+  text-decoration: none;
+  margin-left: 10px;;
+  color:#ffffff;
+  font-weight: 500;
+  padding-bottom: 50px;
+  margin-bottom: 30px;
+}
