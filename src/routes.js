@@ -9,6 +9,7 @@ import Success from './pages/Singin/Singin';
 import Dashboard from './pages/Dashboard/Index';
 import Investimentos from './pages/Investimentos/Index'
 import Aprenda from './pages/Aprenda/Index';
+import Carteira from './pages/Carteira/Index';
 export default function Routes() {
     return (
         <BrowserRouter>
@@ -21,6 +22,7 @@ export default function Routes() {
                 <Route path="/dashboard" component={Dashboard} />
                 <Route path="/investimentos" component={Investimentos} />
                 <Route path="/aprenda" component={Aprenda} />
+                <Route path="/Carteira" component={Carteira} />
             </Switch>
         </BrowserRouter>
     );

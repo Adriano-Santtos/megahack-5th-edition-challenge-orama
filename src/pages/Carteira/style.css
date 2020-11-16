@@ -1,0 +1,90 @@
+.card-media{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0.9rem;
+  width: 30rem;
+  height: 10rem;
+  border-radius: 20px;
+  box-shadow: 0px 0px 3px rgba(70, 69, 69, 0.829);
+}
+.card-media >img{
+  width: 90%;
+}
+.card-gastos-variaveis{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin:  0.5rem 0.9rem;
+  width: 27rem;
+  height: 15rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px rgba(70, 69, 69, 0.829);
+}
+.card-gastos-variaveis >img{
+  width: 90%;
+}
+.card-orcamento{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0.5rem 0.9rem;
+  width: 27rem;
+  height: 20rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px rgba(70, 69, 69, 0.829);
+}
+.card-orcamento > img{
+  width: 90%;
+}
+.calender{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0.9rem;
+ 
+  width: 25rem;
+  height: 20rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px rgba(70, 69, 69, 0.829);
+}
+.historico{
+  display: flex;
+
+ 
+  margin: 0.9rem;
+ 
+  width: 25rem;
+  height: 30rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px rgba(70, 69, 69, 0.829);
+}
+.historico >img {
+  width: 80%;
+}
+.btn-add{
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: flex-end;
+  margin-left: 90%;
+  bottom: -80px;
+  width: 5rem;
+  height: 5rem;
+  background-color: #071E40;
+  border-radius: 50px;
+  color: white;
+  font-size: 5rem;
+}
+.col{
+  height: 100vh;
+  padding: 10px;
+}
+.row{
+  align-items: unset;
+}
