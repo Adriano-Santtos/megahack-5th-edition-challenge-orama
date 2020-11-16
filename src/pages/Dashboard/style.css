@@ -49,17 +49,9 @@
     padding-bottom: 50px;
     margin-bottom: 30px;
 }
-/** header */
-.header-dashboard {
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-}
+
 /** content-center */
 .content {
-    background-color: brown;
     display: flex;
     justify-content: center;
     align-items: center;
