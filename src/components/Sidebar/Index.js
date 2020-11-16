@@ -4,7 +4,6 @@ import { MdSettings, MdHome, MdHelp, MdSchool, MdMonetizationOn, MdInsertChart }
 
 import './style.css'
 
-<<<<<<< HEAD
 export default function Sidebar() {
   return (
 
@@ -20,27 +19,4 @@ export default function Sidebar() {
     </div>
 
   );
-=======
-export default function Dashboard(){
-    return(
-        <div className="container-dashboard">
-            <div className="card-dashboard">
-                <div className="sidebar-dashboard">
-                    <ul>
-                        <li><MdHome size={25} color="#ffffff" /><Link to="/login" className="link-dashboard">Home</Link></li>
-                        <li><MdSchool size={25} color="#ffffff" /><Link className="link-dashboard"></Link>Aprenda +</li>
-                        <li><MdMonetizationOn size={20} color="#ffffff" /><Link className="link-dashboard"></Link>Carteira</li>
-                        <li><MdInsertChart size={20} color="#ffffff" /><Link className="link-dashboard"></Link>Investimento</li>
-                        <li><MdSettings size={20} color="#ffffff" /><Link className="link-dashboard"></Link>Configurações</li>
-                        <li><MdHelp size={20} color="#ffffff" /><Link className="link-dashboard"></Link>Ajuda</li>
-                    </ul>
-                </div>
-                <div className="content-dashboard">
-                    <div className="header-dashboard">Teste</div>
-                    <div className="content">Teste</div>
-                </div>
-            </div>
-        </div>
-    );
->>>>>>> b337291c89ad887ce330980ce410b41db3381dd5
 }
