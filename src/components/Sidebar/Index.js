@@ -4,7 +4,6 @@ import { MdSettings, MdHome, MdHelp, MdSchool, MdMonetizationOn, MdInsertChart }
 
 import './style.css'
 
-
 export default function Sidebar() {
   return (
 
@@ -18,6 +17,5 @@ export default function Sidebar() {
         <li><MdHelp size={20} color="#ffffff" /><Link className="link-dashboard"></Link>Ajuda</li>
       </ul>
     </div>
-
   )
 }
