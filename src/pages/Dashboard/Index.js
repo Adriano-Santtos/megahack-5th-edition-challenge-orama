@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
 import { MdSettings, MdHome, MdHelp, MdSchool, MdMonetizationOn, MdInsertChart } from 'react-icons/md';
-
+import Header from '../../components/Header/Index'
 import './style.css'
 
 export default function Dashboard(){
@@ -19,7 +19,9 @@ export default function Dashboard(){
                     </ul>
                 </div>
                 <div className="content-dashboard">
-                    <div className="header-dashboard">Teste</div>
+                    <div>
+                        <Header />
+                    </div>
                     <div className="content">Teste</div>
                 </div>
             </div>
