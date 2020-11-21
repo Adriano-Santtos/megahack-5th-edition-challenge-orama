@@ -5,7 +5,7 @@
 
 ## Presentation
 
-**The Órama Investidor's Guide** was developed during [MegaHack](https://www.megahack.com.br/) 5th edition. Among the challenges available at the event, we from team 2 "o quarteto fantástico" chose the Órama investimentos challenge. 
+**The Órama Investidor's Guide** was developed during [MegaHack](https://www.megahack.com.br/) 5th edition. Among the challenges available at the event, we from team 2 "o quarteto fantástico" chose the [Órama investimentos](https://www.orama.com.br/) challenge. 
 
 The description of challenge said: **"Develop a way to present investment products and services in a more user-friendly, simplified way that meets the best user experience practices applied by companies like Netflix and Spotify. The goal is to communicate with the public in a clear way and using less “economics”. "**
 
