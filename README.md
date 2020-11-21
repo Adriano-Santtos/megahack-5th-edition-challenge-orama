@@ -1,7 +1,25 @@
-# Órama investidor's Guide
+# Órama Investidor's Guide
 
-![Philadelphia's Magic Gardens. This place was so cool!](public/images/mosaico.png "Philadelphia's Magic Gardens")
+![ Órama Investidor's Guide](public/images/mosaico.png )
 
+
+## Presentation
+
+**The Órama Investidor's Guide** was developed during [MegaHack](https://www.megahack.com.br/) 5th edition. Among the challenges available at the event, we from team 2 "o quarteto fantástico" chose the Órama investimentos challenge. 
+
+The description of challenge said: **"Develop a way to present investment products and services in a more user-friendly, simplified way that meets the best user experience practices applied by companies like Netflix and Spotify. The goal is to communicate with the public in a clear way and using less “economics”. "**
+
+
+From that we had the idea of ​​creating the this! 
+Where the platform indicates the types of investments according to the user's profile. In it we insert our expenses and our financial inputs, and from that the platform identifies our financial profile and gives us tips.
+
+
+Another feature is the possibility to learn more about financial education.
+
+**The application is still in production.**
+
+
+## MegaHack 5th Edition
 
 
 ---
@@ -9,7 +27,6 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 ## Available Scripts
 
