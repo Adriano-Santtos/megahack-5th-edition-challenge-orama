@@ -19,7 +19,13 @@ Another feature is the possibility to learn more about financial education.
 **The application is still in production.**
 
 
-## MegaHack 5th Edition
+## What is MEGAHACK
+
+**The biggest online hackathon in Brazil** carried out by [Shawee](https://shawee.io/) could not carry another name, except: MEGA!
+
+Great not only for breaking geographical barriers, but also for the dimension of the journey it provides to its participants. Mega Hack is Mount Everest of the hackathons, and it takes preparation to reach the top.
+
+There will be 11 days, 10 different challenges to choose from and endless possibilities.
 
 
 ---
